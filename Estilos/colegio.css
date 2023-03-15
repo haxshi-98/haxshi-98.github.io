@@ -1,0 +1,52 @@
+#jaguares{
+    font-size: 45px;
+    font-family: Microsoft Yahei black;
+    text-align: center;
+}
+#fachada{
+    margin-left: 550px;
+}
+#lateral{
+    border: 3px gray solid;
+    width: 29%;
+    float: left;
+}
+#direc{
+    clear: both;
+    margin-left: -29px;
+}
+#dir{
+    width: 110%;
+    margin-left: -20px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Book Antiqua;
+}
+#insta{
+    padding-left: 480px;
+    margin-top: 100px;
+    font-family: Segoe UI Black;
+    font-size: 30px;
+}
+#pla{
+    padding-left: 480px;
+    font-size: 20px;
+    font-family: Book Antiqua;
+}
+ul{
+    padding-left: 500px;
+    font-size: 20px;
+    font-family: Book Antiqua;
+}
+section{
+    clear: both;
+}
+.fig{
+    display: inline-block;
+    width: 27%;
+    margin-top: 30px;
+}
+.cap{
+    text-align: center;
+    padding: 5px;
+}

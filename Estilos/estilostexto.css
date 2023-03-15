@@ -1,0 +1,40 @@
+#logoqroo{
+    display: inline-block;
+    width: 9%;
+    float: left;
+}
+#logobacho{
+    display: inline-block;
+    width: 15%;
+    float: right;
+}
+#titletext{
+    display: inline-block;
+    width: 65%;
+    text-align: center;
+    padding-top: 40px;
+}
+#barranav{
+    clear: both;
+    background-color: teal;
+}
+.menu{
+    display: inline-block;
+    width: 15.7%;
+    padding: 3px;    
+    background-color: teal;
+    text-align: center;
+}
+.link{
+    color: white;
+}
+#marco{
+    width: 99%;
+    height: 800px;
+    padding: 8px;
+}
+#pie{
+    border: double;
+    background-color: lightseagreen;
+    font-size: 15px;
+}

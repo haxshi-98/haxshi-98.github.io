@@ -1,0 +1,143 @@
+#h2{
+    padding-left: 30px;
+    font-size: 45px;
+    font-family: Microsoft Yahei black;
+    text-align: center;
+    padding: 13px;
+}
+#aside{
+    width: 99%;
+    margin-right: 30px;
+    border: 4px yellow dotted;
+    margin-bottom: 30px;
+}
+#t1{
+    padding-left: 30px;
+    width: 95%;
+    font-size: 20px;
+    text-align: center;
+    font-family: Book Antiqua;
+}
+#t2{
+    text-align: center;
+    padding-left: 30px;
+    font-size: 20px;
+    font-family: Book Antiqua;
+}
+#capa{
+    margin-left: 399px;
+}
+.li{
+    display: inline-block;
+    width: 49%;
+    float: left;
+}
+#tec{
+    margin-top: px;
+    font-family: Segoe UI Black;
+    font-size: 30px;
+    padding-left: 30px;
+}
+#obje{
+    font-family: Gishella Morely;
+    font-size: 28px;
+    padding-left: 30px;
+}
+#ttics{
+    font-size: 24px;
+    font-family: Book Antiqua;
+    text-align: justify;
+    padding-left: 30px;
+    width: 90%;
+}
+#tics{
+    padding-left: 120px;
+}
+#con{
+    font-family: Segoe UI Black;
+    font-size: 30px;
+    padding-left: 30px;
+}
+#ob{
+    font-family: Gishella Morely;
+    font-size: 28px;
+    padding-left: 30px;
+}
+#tconta{
+    font-size: 24px;
+    font-family: Book Antiqua;
+    text-align: justify;
+    padding-left: 30px;
+}
+#conta{
+    padding-left: 40px;
+}
+#ad{
+    margin-top: -6px;
+    font-family: Segoe UI Black;
+    font-size: 30px;
+    padding-left: 30px;
+}
+#objeti{
+    font-family: Gishella Morely;
+    font-size: 28px;
+    padding-left: 30px;
+}
+#tadmin{
+    font-size: 24px;
+    font-family: Book Antiqua;
+    text-align: justify;
+    padding-left: 30px;
+    width: 90%;
+}
+#admin{
+    padding-left: 10px;
+}
+#serv{
+    margin-top: -1px;
+    font-family: Segoe UI Black;
+    font-size: 30px;
+    padding-left: 30px;
+}
+#objet{
+    font-family: Gishella Morely;
+    font-size: 28px;
+    padding-left: 30px;
+}
+#tturi{
+    font-size: 24px;
+    font-family: Book Antiqua;
+    text-align: justify;
+    padding-left: 30px;
+}
+#turi{
+    padding-left: 32px;
+}
+#com{
+    padding-top: 30px;
+    font-family: Segoe UI Black;
+    font-size: 30px;
+    padding-left: 30px;
+    clear: both;
+    text-align: center;
+}
+#o{
+    font-family: Gishella Morely;
+    font-size: 28px;
+    padding-left: 30px;
+    text-align: center;
+}
+#tcomu{
+    font-size: 24px;
+    font-family: Book Antiqua;
+    text-align: center;
+    padding-left: 30px;
+}
+#comu{
+    padding-left: 260px;
+}
+a{
+    padding-left: 30px;
+    font-size: 18px;
+    font-family: Book Antiqua;
+}

@@ -1,0 +1,24 @@
+#h2{
+    font-size: 45px;
+    font-family: Microsoft Yahei black;
+    text-align: center;
+}
+#text{
+    font-size: 20px;
+    font-family: Book Antiqua;
+}
+h3{
+    font-family: Gishella Morely;
+    font-size: 28px;
+    padding-left: 45px;
+}
+.para{
+    display: inline-block;
+    width: 49%;
+}
+#voli{
+    padding-left: 120px;
+}
+#h3{
+    text-align: center;
+}

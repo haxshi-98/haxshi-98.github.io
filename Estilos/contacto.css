@@ -1,0 +1,26 @@
+#contact{
+    font-size: 50px;
+    font-family: Microsoft Yahei;
+    padding-left: 80px;
+}
+#der{
+    float: right;
+    margin-top: -100px;
+    padding-right: 60px;
+}
+.sub{
+    font-size: 25px;
+    font-family: Microsoft Yahei;
+    padding-left: 80px;
+}
+#dire{
+    padding-left: 80px;
+    margin-top: -30px;
+}
+#cel{
+    padding-left: 80px;
+    margin-top: -30px;
+}
+#site{
+    padding-left: 80px;
+}

@@ -1,0 +1,22 @@
+#h2{
+    font-size: 45px;
+    font-family: Microsoft Yahei black;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    font-family: Book Antiqua;
+    padding-left: 45px;
+}
+ul{
+    padding-left: 70px;
+}
+.point{
+    font-size: 20px;
+    font-family: Book Antiqua;
+    text-align: justify;
+}
+.fig{
+    width: 27.5%;
+    display: inline-block;
+}
